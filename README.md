@@ -1,6 +1,6 @@
 # App Lista de Tarefas
 
-Aplicação web simples de lista de tarefas desenvolvida em PHP com PDO e MySQL. O projeto permite cadastrar, listar, atualizar, remover e marcar tarefas como concluídas.
+Aplicação web simples de lista de tarefas desenvolvida em PHP com PDO e MySQL. O projeto permite cadastrar, listar, atualizar, remover e marcar tarefas como concluídas. - Projeto desenvolvido através de um curso de Dev. Web na Udemy.
 
 ## Funcionalidades
 
